@@ -1,3 +1,3 @@
 # Android-Logo
 
-![ScreenShot]({http://www.android.com/media/android_vector.jpg})
+![ScreenShot](http://www.android.com/media/android_vector.jpg)
