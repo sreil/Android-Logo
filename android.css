@@ -14,8 +14,15 @@ div div {
 	height: 100px;
 }
 
-.leftAnt {
+.leftAnt, .rightAnt {
+	width: 6px;
+	height: 50px;
+	position: absolute;
+	top: 42px;
+}
 
+.leftAnt {
+	left: 50px;
 }
 
 .rightAnt {
@@ -43,5 +50,5 @@ div div {
 }
 
 .rightLeg {
-	
+
 }
