@@ -12,6 +12,8 @@ div div {
 .head {
 	width: 220px;
 	height: 100px;
+	top: 32px;
+	border-radius: 110px 110px 0 0;
 }
 
 .leftAnt, .rightAnt {
