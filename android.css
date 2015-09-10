@@ -40,17 +40,17 @@ div div {
 }
 
 .leftArm {
-
+	left: -58px;
 }
 
 .rightArm {
-
+	right: -58px;
 }
 
 .leftLeg {
-
+	left: 45px;
 }
 
 .rightLeg {
-
+	right: 45px;
 }
